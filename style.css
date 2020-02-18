@@ -1,0 +1,35 @@
+body {
+    width: 1024px; 
+    padding: 10px; 
+    margin: auto;
+    background-color: #FFFAFA;
+}
+#title {
+  color: #000080;
+  font-size:175%; 
+  font-weight:bold;
+  margin-top:2px; 
+  margin-bottom:25px;
+}
+#main {
+  margin-left:5px;
+  margin-right:5px;
+}
+#main p {
+  font-size:105%;
+  font-style: italic;
+}
+#main h4 {
+  color: #000080;
+  margin-top:10px; 
+  margin-bottom:5px;
+  font-size:125%; 
+  font-weight:bold;
+}
+#main .picture {
+  float:left; 
+  padding:5px; 
+  border-style:solid; 
+  border-width:1px;
+  margin:0 25px 15px 0;
+}
