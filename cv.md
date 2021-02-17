@@ -1,8 +1,8 @@
 #### *First Name:*   Tatsiana
 #### *Last Name:*    Kastrubai
 #### *Contact Info:* 
-* Phone Number *+375333933929*
-* Telegram profile  *[@mitaka76](https://t.me/mitaka76)*
+* Phone Number *+375333933939*
+* Telegram profile  *[@mitaka763](https://t.me/mitaka763)*
 #### *Summary:*
 > Start a career as a junior developer and in five years grow up to team lead
 > Despite the lack of experience, I strive to work hard and self-study to achieve my goals. Most of my time I spend on getting skills 
@@ -14,7 +14,9 @@
 * establish test cases/data to support test plans
 * training and users
 * SAP DM, FS-BP, ER, CRM, ABAP, BADI, BAPI
-* HTML, CSS
+* basics of SQL, ABAP
+* HTML, CSS3
+* Javascript/ES5/ES6/Typescript
 * Python
 * VBA
 #### *Code examples:*
